@@ -1,10 +1,10 @@
 [
     {
         "version": "0.9.12",
-        "url": "../docs/_build/html/"
+        "url": "/Users/anand.shaurya/Desktop/Asper_Utils/docs/_build/html"
     },
     {
         "version": "0.10.0",
-        "url": "../copy_docs/_build/html/"
+        "url": "/Users/anand.shaurya/Desktop/Asper_Utils/copy_docs/_build/html"
     }
 ]
