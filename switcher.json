@@ -1,11 +1,9 @@
 [
     {
-        "name": "v0.9.12 (stable)",
         "version": "0.9.12",
         "url": "../docs/_build/html/"
     },
     {
-        "name": "v0.10.0 (dummy)",
         "version": "0.10.0",
         "url": "../copy_docs/_build/html/"
     }
